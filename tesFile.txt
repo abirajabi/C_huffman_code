@@ -1,0 +1,1 @@
+Ini contoh string yang akan dibaca dari file.
